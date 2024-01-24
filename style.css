@@ -476,17 +476,17 @@
     }
     .pop-up .number2{
         margin-inline: 12%;
-        padding-inline: 3%;
+        padding-inline: 2%;
         padding-block: 3px;
         margin-top: 10px !important;
         width: 68%;
     }
     .delta1-a{
-        font-weight: bolder !important;
-        font-size: 1.6rem !important;
+        font-weight: 900 !important;
+        font-size: 1.4rem !important;
     }
     .pop-up .call-logo2{
-        font-size: 0.7rem;
+        font-size: 0.8rem;
     }
     .delta4-list{
         text-align: left;
